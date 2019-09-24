@@ -3,11 +3,6 @@
 ### WELCOME to Chifty`s Menu
 ###
 
-:start
-echo Hello world!
-sleep 10
-goto custom
-
 :custom
 clear custom_choice
 menu This is a Test Menu
